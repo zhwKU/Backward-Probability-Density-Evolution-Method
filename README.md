@@ -1,2 +1,2 @@
 # Backward-Probability-Density-Evolution-Method
-A numerical algorithm for efficient Bayesian model updating.
+A efficient numerical algorithm for Bayesian model updating.
